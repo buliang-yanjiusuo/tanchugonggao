@@ -39,7 +39,7 @@
 <div id="announcementPopup" class="announcement-modal">
   <div class="announcement-content">
     <h2>公告标题</h2>
-    <p>这是公告内容，可以根据需要自定义字体颜色和大小。</p>
+    <p>这是公告内容，可以根据需要自定义字体颜色和大小。搜索我的名字你会得到很多惊喜。</p>
     <div class="close-container">
       <span class="close-btn">关闭</span>
     </div>
